@@ -1,0 +1,53 @@
+@media (max-width: 1906px) {
+    /* section#date_section {
+        margin-top: -26.4%;
+    } */
+}
+@media (max-width: 767px) {
+    .section_title h1 {
+        font-size: 27px;
+        font-weight: 600;
+        line-height: 36px;
+    }
+    section.padding.gray_bg.opportunities .text_block {
+        width: 100%;
+    }
+    .icon_block img {
+        min-width: 79px;
+        margin-bottom: 20px;
+        max-width: 79px;
+    }
+    .border_line::before {
+        display: none;
+    }
+    section.banner_home {
+
+        height: 367px;
+    }
+    .banner_content h1 {
+        
+        font-size: 30px;
+    }
+    .testimonial_img img {
+        width: 75px;
+    }
+    button.slick-next.slick-arrow,button.slick-prev.slick-arrow {
+     display: none;
+    }
+    .btn_block a {
+
+        padding: 10px 14px;
+       
+    }
+    .padding {
+        padding: 64px 0;
+    }
+    
+    button.slick-next.pull-right.slick-arrow,button.slick-prev.pull-left.slick-arrow {
+        display: none !important;
+    }
+}
+
+
+   
+  
